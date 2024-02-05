@@ -1,0 +1,13 @@
+.footer{
+    width: 100vw;
+    background: rgb(102, 98, 96);
+    color: aliceblue;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+}
+.footer ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}

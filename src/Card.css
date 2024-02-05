@@ -1,0 +1,15 @@
+.card{
+    width: 200px;
+    border: 2px solid rgb(178, 172, 172);
+    box-shadow: 5px 5px 10px rgb(187, 157, 173);
+    border-radius: 15px;
+    padding: 10px;
+}
+.card img{
+    width: 100%;
+}
+.card:hover{
+    scale: 1.05;
+    transition: 1s ease-in-out;
+}
+

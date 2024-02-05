@@ -1,0 +1,14 @@
+.navbar{
+    width: 100vw;
+    background: orangered;
+    color: aliceblue;
+    padding: 20px;
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.navbar ul li{
+    cursor: pointer;
+}
